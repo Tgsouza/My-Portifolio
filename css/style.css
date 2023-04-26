@@ -35,38 +35,34 @@
 }
 
 .ecommerce-project{
-    width: 80%; 
-    height: 300px; 
+    width: 100%; 
+    height: auto; 
     border-radius: 21px 21px 0 0;
-    background-image: url("../img/ecommerce-project.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .blog-project{
-    width: 80%; 
-    height: 300px; 
+    width: 100%; 
+    height: auto; 
     border-radius: 21px 21px 0 0;
-    background-image: url("../img/blog-project.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .services-project{
-    width: 80%; 
-    height: 300px; 
+    width: 100%; 
+    height: auto; 
     border-radius: 21px 21px 0 0;
-    background-image: url("../img/services-project.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .one-product-project{
-    width: 80%; 
-    height: 300px; 
+    width: 100%; 
+    height: auto; 
     border-radius: 21px 21px 0 0;
     background-repeat: no-repeat;
-    background-image: url("../img/one-product-project.jpg");
     background-size: cover;
 }
 
